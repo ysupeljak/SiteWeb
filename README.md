@@ -4,4 +4,7 @@
 Ceci est un paragraphe avec un mot en **gras** et en *italique*
 - puce 1
 - puce 2
+- puce 3
+1 point 1
+2 point 2
 voici un lien [lien](https://www.google.com)
